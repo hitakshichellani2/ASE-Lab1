@@ -1,0 +1,10 @@
+{
+  "name": "r1_s100",
+  "split": "dev",
+  "n_chunks": 1165,
+  "index_seconds": 0.08,
+  "api_latency_s_per_query": 0.0,
+  "local_search_s_per_query": 0.00397,
+  "latency_s_per_query": 0.004,
+  "approx_tokens_per_query": 0.0
+}

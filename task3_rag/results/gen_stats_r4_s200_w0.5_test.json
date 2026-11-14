@@ -1,0 +1,9 @@
+{
+  "name": "r4_s200_w0.5",
+  "split": "test",
+  "n": 100,
+  "generation_s_per_question": 6.46,
+  "prompt_tokens_per_question": 969.5,
+  "answer_tokens_per_question": 15.1,
+  "abstentions": 50
+}

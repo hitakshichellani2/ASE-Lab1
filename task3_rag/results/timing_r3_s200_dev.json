@@ -1,0 +1,10 @@
+{
+  "name": "r3_s200",
+  "split": "dev",
+  "n_chunks": 952,
+  "index_seconds": 14.08,
+  "api_latency_s_per_query": 0.5443,
+  "local_search_s_per_query": 0.00036,
+  "latency_s_per_query": 0.5447,
+  "approx_tokens_per_query": 18.4
+}

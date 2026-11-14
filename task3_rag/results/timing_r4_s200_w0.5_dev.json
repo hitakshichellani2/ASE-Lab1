@@ -1,0 +1,10 @@
+{
+  "name": "r4_s200_w0.5",
+  "split": "dev",
+  "n_chunks": 952,
+  "index_seconds": 14.15,
+  "api_latency_s_per_query": 0.5443,
+  "local_search_s_per_query": 0.00377,
+  "latency_s_per_query": 0.5481,
+  "approx_tokens_per_query": 18.4
+}
